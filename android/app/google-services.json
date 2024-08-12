@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "408329046304",
+    "project_id": "tokoroti-ae2ec",
+    "storage_bucket": "tokoroti-ae2ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408329046304:android:f20b442aa8abc418a66f45",
+        "android_client_info": {
+          "package_name": "com.example.junior_mobile_programming"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLim6-fhaGpX63eJZOWMF3wP6mTIAkIOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408329046304:android:37b07c2909dbe7cda66f45",
+        "android_client_info": {
+          "package_name": "com.example.toko_roti"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLim6-fhaGpX63eJZOWMF3wP6mTIAkIOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
